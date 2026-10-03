@@ -1,0 +1,61 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "minecraft:stick": 8,
+      "minecraft:iron_ingot": 18,
+      "minecraft:iron_helmet": 1,
+      "minecraft:iron_chestplate": 1,
+      "minecraft:iron_sword": 1
+    },
+    "minecraft:mined": {
+      "minecraft:smoker": 1,
+      "minecraft:glass_pane": 1,
+      "minecraft:dirt": 2,
+      "minecraft:dark_oak_planks": 1
+    },
+    "minecraft:killed": {
+      "minecraft:salmon": 1
+    },
+    "minecraft:used": {
+      "minecraft:iron_axe": 1,
+      "minecraft:iron_pickaxe": 1,
+      "minecraft:bread": 1,
+      "minecraft:melon_slice": 5,
+      "minecraft:dirt": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:salmon": 1,
+      "minecraft:dirt": 2,
+      "minecraft:smoker": 1,
+      "minecraft:bread": 32,
+      "minecraft:dark_oak_planks": 13
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:time_since_rest": 9211,
+      "minecraft:walk_one_cm": 63084,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 1792,
+      "minecraft:damage_taken": 10,
+      "minecraft:damage_dealt": 50,
+      "minecraft:play_time": 31498,
+      "minecraft:jump": 288,
+      "minecraft:time_since_death": 31498,
+      "minecraft:open_barrel": 24,
+      "minecraft:interact_with_furnace": 4,
+      "minecraft:sprint_one_cm": 88546,
+      "minecraft:open_chest": 34,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 6543,
+      "minecraft:swim_one_cm": 21688,
+      "minecraft:total_world_time": 31498,
+      "minecraft:fly_one_cm": 53062,
+      "minecraft:walk_on_water_one_cm": 9707,
+      "minecraft:crouch_one_cm": 294,
+      "minecraft:sneak_time": 84,
+      "minecraft:climb_one_cm": 8050
+    }
+  },
+  "DataVersion": 4790
+}

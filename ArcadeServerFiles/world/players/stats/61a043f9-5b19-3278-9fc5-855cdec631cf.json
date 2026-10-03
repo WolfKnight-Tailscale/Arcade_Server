@@ -1,20 +1,56 @@
 {
   "stats": {
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 40,
+      "minecraft:stone_sword": 1,
+      "minecraft:stone_spear": 2,
+      "minecraft:dark_oak_planks": 20,
+      "minecraft:stone_axe": 1,
+      "minecraft:stone_pickaxe": 1
+    },
+    "minecraft:mined": {
+      "minecraft:sandstone": 1,
+      "minecraft:dark_oak_log": 5,
+      "minecraft:sand": 1,
+      "minecraft:dirt": 10,
+      "minecraft:grass_block": 4,
+      "minecraft:coal_ore": 29,
+      "minecraft:stone": 71
+    },
+    "minecraft:used": {
+      "minecraft:stone_pickaxe": 116,
+      "minecraft:dirt": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 13,
+      "minecraft:coal": 24,
+      "minecraft:cobblestone": 70,
+      "minecraft:sand": 1,
+      "minecraft:sandstone": 1,
+      "minecraft:dark_oak_log": 5
+    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 19291,
-      "minecraft:walk_one_cm": 16372,
-      "minecraft:leave_game": 1,
-      "minecraft:damage_taken": 10,
-      "minecraft:play_time": 19291,
-      "minecraft:jump": 62,
-      "minecraft:time_since_death": 19291,
-      "minecraft:sprint_one_cm": 1567,
-      "minecraft:open_chest": 2,
-      "minecraft:fall_one_cm": 775,
-      "minecraft:total_world_time": 19291,
-      "minecraft:fly_one_cm": 199,
-      "minecraft:walk_on_water_one_cm": 659,
-      "minecraft:climb_one_cm": 128
+      "minecraft:interact_with_crafting_table": 19,
+      "minecraft:time_since_rest": 1811,
+      "minecraft:walk_one_cm": 81306,
+      "minecraft:leave_game": 5,
+      "minecraft:walk_under_water_one_cm": 1367,
+      "minecraft:damage_taken": 790,
+      "minecraft:play_time": 57717,
+      "minecraft:jump": 217,
+      "minecraft:time_since_death": 1729,
+      "minecraft:sprint_one_cm": 16995,
+      "minecraft:open_chest": 9,
+      "minecraft:fall_one_cm": 5700,
+      "minecraft:swim_one_cm": 3781,
+      "minecraft:total_world_time": 57717,
+      "minecraft:fly_one_cm": 2944,
+      "minecraft:walk_on_water_one_cm": 10346,
+      "minecraft:climb_one_cm": 1320,
+      "minecraft:deaths": 3
     }
   },
   "DataVersion": 4790
