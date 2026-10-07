@@ -12,7 +12,7 @@ set JAR_FILE=fabric-server.jar
 
 REM --- AIKAR'S FLAGS (Optimized for Performance) ---
 %JAVA_PATH% -Xms%RAM% -Xmx%RAM% ^
-    -XX:+UseG1GC ^
+    -XX:+UseZGC ^
     -XX:+ParallelRefProcEnabled ^
     -XX:MaxGCPauseMillis=200 ^
     -XX:+UnlockExperimentalVMOptions ^
