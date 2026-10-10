@@ -10,9 +10,9 @@
   "safetyCheckRadius": 1,
   "cooldown": 30,
   "blackListedBiomes": [
+    "minecraft:small_end_islands",
     "minecraft:the_void",
-    "minecraft:the_end",
-    "minecraft:small_end_islands"
+    "minecraft:the_end"
   ],
   "blackListedBiomeTags": [
     "minecraft:is_beach",
