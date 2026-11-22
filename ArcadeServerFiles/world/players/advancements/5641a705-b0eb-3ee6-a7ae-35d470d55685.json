@@ -4066,5 +4066,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2026-11-04 20:03:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2026-11-04 20:03:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
+    "criteria": {
+      "has_tuff_brick_slab": "2026-11-04 20:08:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_bars_from_honeycomb": {
+    "criteria": {
+      "has_exposed_copper_bars": "2026-11-04 20:35:16 +0530"
+    },
+    "done": true
+  },
   "DataVersion": 4790
 }
